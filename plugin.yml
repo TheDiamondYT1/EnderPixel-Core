@@ -1,0 +1,6 @@
+name: FactionsCore
+author: TheDiamondYT7
+description: Core plugin for EnderPixel Factions
+version: 1.1.0
+api: [1.0.0]
+main: EnderPixel\Factions\Main

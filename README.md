@@ -1,2 +1,21 @@
-# EnderPixel-Core
-Core Factions plugin for EnderPixel. It was on my Gitlab, inactive for 6 months, so why not post it.
+# EnderPixel Core 
+### This was on my Gitlab. Original README below.
+
+---
+
+# FactionsCore, the core plugin for EnderPixel Factions!
+## Current implementations:
+
+- /feed
+- /heal
+- /fly
+- /color
+- /commandspy
+- /tpall
+- NoVoid
+
+## Possible Future implementations:
+
+- Pos (coordinates plugin)
+- /repair?
+- Built-in chat censor?
